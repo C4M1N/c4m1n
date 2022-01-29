@@ -104,9 +104,16 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 ---
 
 ### :fire: My Stats:
-<div id="stats" style="float: left;">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C4M1N&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-<div id="languages" style="float: right;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4M1N&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### I recommend Datacamp. There are a lot of resources for beginners and experts with very good articles on their website.
+<div id="Datacamp">
+  <a href="https://www.datacamp.com/" title="Datacamp" />
+    <img src="https://media.giphy.com/media/hFetNJJfWGKgjqy4LF/giphy.gif" width="50" alt="Datacamp" />
+  </a>
 </div>
