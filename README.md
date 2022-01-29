@@ -13,10 +13,10 @@
 
 I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55dULnC3cfL3Xfl/giphy.gif" width="25" />
 
-- :telescope: I work as a data scientist and I like to explore and transform data in order to build models to get useful insights.
+- :chart_with_upwards_trend: I work as a data scientist and I like to explore and transform data in order to build models to get useful insights.
 
-- :seedling: I like reading and exploring technical content in data sciences or python development. 
+- :bookmark_tabs: I like reading and exploring technical content in data sciences or python development. 
 
 - :zap: During my free time, I am interested in Blockchain and new advances in this area.
 
-- :mailbox: You can contact me by MP.
+- :envelope: You can contact me by MP.
