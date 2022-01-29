@@ -104,6 +104,9 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 ---
 
 ### :fire: My Stats:
+<div id="stats" style="float: left;">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C4M1N&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+</div>
+<div id="languages" style="float: right;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4M1N&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
