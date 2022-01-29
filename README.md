@@ -121,5 +121,5 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 ---
 
 <div id="ressources">
-  <a href="https://www.sitepoint.com/github-profile-readme/"  target="_blank" rel="noopener noreferrer" alt="How to Create an Impressive GitHub Profile README">Thanks to Nida Khan for this helpful article on GitHub profile customization</a>
+  <a href="https://www.sitepoint.com/github-profile-readme/" alt="How to Create an Impressive GitHub Profile README">Thanks to Nida Khan for this helpful article on GitHub profile customization</a>
 </div>
