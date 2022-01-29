@@ -44,9 +44,6 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
   <a href="https://github.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40" />
-  </a>
   <a href="https://www.gimp.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40" />
   </a>
@@ -90,7 +87,7 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40" />
   </a>
   <a href="https://woocommerce.com/">
-    <img src="**https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg**" title="Woocommerce" alt="Woocommerce" width="40" height="40" />
+    <img src="**https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40" />
   </a>
 </div>
 
