@@ -92,6 +92,9 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
   <a href="https://wordpress.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40" />
   </a>
+  <a href="https://www.djangoproject.com/">
+    <img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40" />
+  </a>
   <a href="https://woocommerce.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40" />
   </a>
