@@ -117,3 +117,9 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
     <img src="https://media.giphy.com/media/hFetNJJfWGKgjqy4LF/giphy.gif" width="200" alt="Datacamp" />
   </a>
 </div>
+
+---
+
+<div id="ressources">
+  <a href="https://www.sitepoint.com/github-profile-readme/" alt="How to Create an Impressive GitHub Profile README">TThanks to Nida Khan for this helpful article on GitHub profile customization</a>
+</div>
