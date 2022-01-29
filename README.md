@@ -111,9 +111,9 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 
 ---
 
-### I recommend Datacamp. There are a lot of resources for beginners and experts with very good articles on their website.
+#### I recommend Datacamp. There are a lot of resources for beginners and experts with very good articles on their website.
 <div id="Datacamp">
   <a href="https://www.datacamp.com/" title="Datacamp" />
-    <img src="https://media.giphy.com/media/hFetNJJfWGKgjqy4LF/giphy.gif" width="50" alt="Datacamp" />
+    <img src="https://media.giphy.com/media/hFetNJJfWGKgjqy4LF/giphy.gif" width="200" alt="Datacamp" />
   </a>
 </div>
