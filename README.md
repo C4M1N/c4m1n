@@ -17,6 +17,6 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 
 - :bookmark_tabs: I like reading and exploring technical content in data sciences or python development. 
 
-- :zap: During my free time, I am interested in Blockchain and new advances in this area.
+- :diamond_shape_with_a_dot_inside: During my free time, I am interested in Blockchain and new advances in this area.
 
 - :envelope: You can contact me by MP.
