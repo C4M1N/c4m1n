@@ -29,6 +29,12 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
   </a>
+  <a href="https://jupyter.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />
+  </a>
   <a href="https://www.heroku.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40" />
   </a>
