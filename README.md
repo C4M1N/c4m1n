@@ -89,6 +89,6 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
   <a href="https://woocommerce.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40" />
   </a>
-  <p>And many others...</p>
+  <p>And many other...</p>
 </div>
 
