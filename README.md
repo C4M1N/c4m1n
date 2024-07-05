@@ -111,15 +111,6 @@ I am a Data Scientist from France. <img src="https://media.giphy.com/media/UnS55
 
 ---
 
-#### I recommend Datacamp. There are a lot of resources for beginners and experts with very good articles on their website.
-<div id="Datacamp">
-  <a href="https://www.datacamp.com/" title="Datacamp" />
-    <img src="https://media.giphy.com/media/hFetNJJfWGKgjqy4LF/giphy.gif" width="200" alt="Datacamp" />
-  </a>
-</div>
-
----
-
 <div id="ressources">
   <a href="https://www.sitepoint.com/github-profile-readme/" alt="How to Create an Impressive GitHub Profile README">Thanks to Nida Khan for this helpful article on GitHub profile customization</a>
 </div>
